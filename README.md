@@ -1,2 +1,3 @@
 # WORKSHOP
 GIT COURSE AT DSATM
+on 2nd Feb
